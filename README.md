@@ -1,6 +1,6 @@
 # npmtest-dot
 
-#### test coverage for  [dot (v1.1.1)](http://github.com/olado/doT)  [![npm package](https://img.shields.io/npm/v/npmtest-dot.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dot) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dot.svg)](https://travis-ci.org/npmtest/node-npmtest-dot)
+#### basic test coverage for  [dot (v1.1.1)](http://github.com/olado/doT)  [![npm package](https://img.shields.io/npm/v/npmtest-dot.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dot) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dot.svg)](https://travis-ci.org/npmtest/node-npmtest-dot)
 
 #### Concise and fast javascript templating compatible with nodejs and other javascript environments
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-dot/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-dot/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-dot/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-dot/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dot/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dot/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-dot/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-dot/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dot/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dot/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-dot/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-dot/build/coverage.html/index.html)
 
